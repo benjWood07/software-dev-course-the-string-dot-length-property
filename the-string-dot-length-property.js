@@ -1,3 +1,4 @@
+// the-string-dot-length-property.js
 /*
 
 Objective:
@@ -19,12 +20,14 @@ let stringOne = "Coding Bootcamp";
 let stringTwo = "JavaScript";
 let stringThree = "";
 
-// Your task: Assign the length of each string to the corresponding variable
-let lengthOne;   // Length of stringOne
-let lengthTwo;   // Length of stringTwo
-let lengthThree; // Length of stringThree
+let lengthOne = stringOne.length;   // Use the .length property to calculate the Length of stringOne
+let lengthTwo = stringTwo.length;   // Use the .length property to calculate the Length of stringTwo
+let lengthThree = stringThree.length;  // Use the .length property to calculate the Length of stringThree
 
-// Your code here
+console.log("What is the length of stringOne:", lengthOne); // print the length of the first string to varify calculation
+console.log("What is the length of stringOne:", lengthTwo); // print the length of the second string to varify calculation
+console.log("What is the length of stringOne:", lengthThree); // print the length of the third string to varify calculation
+
 
 
 
