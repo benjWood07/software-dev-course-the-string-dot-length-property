@@ -24,9 +24,9 @@ let lengthOne = stringOne.length;   // Use the .length property to calculate the
 let lengthTwo = stringTwo.length;   // Use the .length property to calculate the Length of stringTwo
 let lengthThree = stringThree.length;  // Use the .length property to calculate the Length of stringThree
 
-console.log("What is the length of stringOne:", lengthOne); // print the length of the first string to varify calculation
-console.log("What is the length of stringOne:", lengthTwo); // print the length of the second string to varify calculation
-console.log("What is the length of stringOne:", lengthThree); // print the length of the third string to varify calculation
+console.log('This is the length of the String "Coding Bootcamp":', lengthOne); // print the length of the first string to varify calculation
+console.log('This is the length of the String "JavaScript":', lengthTwo); // print the length of the second string to varify calculation
+console.log('This is the length of the empty String "":', lengthThree); // print the length of the third string to varify calculation
 
 
 
